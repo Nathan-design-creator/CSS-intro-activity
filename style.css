@@ -1,0 +1,26 @@
+/* UNIVERSAL SELECTOR */
+* {
+    font-family: cursive;
+}
+
+/* ELEMENT SELECTOR */
+h3 {
+    color: rgb(59, 59, 160)
+}
+
+/* GROUP SELECTOR */
+h4,
+p {
+    color: blueviolet
+}
+
+/* CLASS SELECTOR */
+.myclass {
+    font-size: 40px;
+    color: rgb(0, 255, 234)
+}
+
+/* ID SELECTOR */
+#myid {
+    color: rgb(42, 97, 81);
+}
